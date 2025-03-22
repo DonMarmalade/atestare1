@@ -1,0 +1,13 @@
+.image {
+    aspect-ratio: 1/1;
+    width: 128px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 10px;
+    border: solid 2px black;
+}
+
+.selected {
+    border: solid 4px greenyellow;
+}

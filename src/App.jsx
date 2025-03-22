@@ -1,5 +1,11 @@
+import Library from "./components/Library/index.js";
+
 function App() {
-    return <></>;
+    return (
+        <>
+            <Library />
+        </>
+    );
 }
 
 export default App;
