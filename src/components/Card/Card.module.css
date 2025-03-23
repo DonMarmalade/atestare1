@@ -11,3 +11,8 @@
 .selected {
     border: solid 4px greenyellow;
 }
+
+.passed {
+    background-color: rgba(173, 255, 47, 0.4);
+    border: solid 4px greenyellow;
+}
